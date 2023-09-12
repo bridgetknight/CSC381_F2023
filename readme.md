@@ -6,4 +6,4 @@ Organized into assignments, in-class work, and projects. Unfinished homework ass
 
 
 ## Resources
-* [course folder (Google Drive)](https://drive.google.com/drive/folders/1tWZykjzI_5-2oMCB5uiWuT45VbJr5AMo?usp=drive_link)
+* [course folder (Google Drive)](https://drive.google.com/drive/folders/1Rz81YFM1xG28R9MEavVigKiMm21fN6-n?usp=drive_link)

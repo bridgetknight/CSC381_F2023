@@ -1,0 +1,6 @@
+The following are to test outputs:
+
+
+The sum is of 7 and 8 is: 15
+The Outputs from Java program ends here.
+

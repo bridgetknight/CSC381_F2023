@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/project03/src/mod1_src/csc381_mod1.mod := printf '%s\n'   csc381_mod1.o | awk '!x[$$0]++ { print("/mnt/hgfs/project03/src/mod1_src/"$$0) }' > /mnt/hgfs/project03/src/mod1_src/csc381_mod1.mod

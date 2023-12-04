@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/project03/src/mod2_src/Module.symvers :=  scripts/mod/modpost -m -a     -o /mnt/hgfs/project03/src/mod2_src/Module.symvers -T /mnt/hgfs/project03/src/mod2_src/modules.order -i Module.symvers -e 

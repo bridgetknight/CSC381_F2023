@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/project03/src/mod2_src/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /mnt/hgfs/project03/src/mod2_src/hello.ko /mnt/hgfs/project03/src/mod2_src/hello.o /mnt/hgfs/project03/src/mod2_src/hello.mod.o;  true
